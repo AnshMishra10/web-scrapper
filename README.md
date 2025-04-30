@@ -1,6 +1,6 @@
 # 🚗 Web Scraper (JavaFX + JSoup)
 
-This is a simple yet functional JavaFX desktop application that performs **web scraping** using the [JSoup](https://jsoup.org/) library. It demonstrates how to build a GUI-based Java application that fetches and displays data from a live website, in this case, scraping car names and prices from [CarDekho](https://www.cardekho.com/).
+This is a simple yet functional JavaFX desktop application that performs **web scraping** using the [JSoup](https://jsoup.org/) library. It demonstrates how to build a GUI-based Java application that fetches and displays data from a live website.
 
 ## ✨ Features
 
