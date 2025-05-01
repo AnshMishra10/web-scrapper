@@ -32,7 +32,7 @@ public class App extends Application {
         stage.show();
 
         // Start Web Scraping (Optional)
-        scrapeWebsite("https://www.cardekho.com/");
+        scrapeWebsite();
     }
 
     // Web Scraping Method
